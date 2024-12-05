@@ -1,0 +1,50 @@
+[
+  {
+    "cliente_id": 1,
+    "nome": "João Silva",
+    "endereco": "Rua das Flores, 123",
+    "cep": "12345-678",
+    "data_nascimento": "1990-01-01",
+    "telefone": "(11)98765-4344"
+  },
+  {
+    "cliente_id": 2,
+    "nome": "Felipe Costa",
+    "endereco": "Av. Central, 456",
+    "cep": "87654-321",
+    "data_nascimento": "1985-05-15",
+    "telefone": "(11)99876-5555"
+  },
+  {
+    "cliente_id": 3,
+    "nome": "Carlos Eduardo da Silva",
+    "endereco": "Rua 3",
+    "cep": "96600-000",
+    "data_nascimento": "1990-06-15",
+    "telefone": "(11)91234-5678"
+  },
+  {
+    "cliente_id": 4,
+    "nome": "Mariana Oliveira Santos",
+    "endereco": "Avenida Paulista, 987 - Bela Vista",
+    "cep": "01311-000",
+    "data_nascimento": "1985-09-28",
+    "telefone": "(11)99876-5432"
+  },
+  {
+    "cliente_id": 5,
+    "nome": "Ana Clara Souza",
+    "endereco": "Travessa do Sol, 456 - Vila Nova",
+    "cep": "40301-110",
+    "data_nascimento": "2000-07-05",
+    "telefone": "(71)91234-8765"
+  },
+  {
+    "cliente_id": 6,
+    "nome": "GREMIO",
+    "endereco": "Rua 3",
+    "cep": "96600-000",
+    "data_nascimento": "1990-06-15",
+    "telefone": "(11)91234-5678"
+  }
+]
